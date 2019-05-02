@@ -13,5 +13,8 @@ $(function(){
             items:1
         }
     }
-})
+  });
+  $('.addSeiko1').click(function () {
+
+  });
 });

@@ -1,13 +1,17 @@
-body{
-  background-color: #c8c8ca;
-}
 .dropdown-item:focus, .dropdown-item:hover{
   color: grey;
 }
 .card1{
-  width: 18%;
+  width: 5%;
   float: left;
-  /* display: none; */
+  display: none;
+}
+.imgm{
+  height: 64px;
+  width: 64px;
+}
+.card{
+  border: 2px solid black;
 }
 .montrepanier{
   margin-left: 28%;
@@ -78,7 +82,7 @@ body{
     display: none;
   }
   .dropdown-menu{
-    width: 250px;
+    width: 290px;
     right: auto;
   }
   .montrepanier{
